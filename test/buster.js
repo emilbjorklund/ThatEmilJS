@@ -4,6 +4,7 @@ config["LabelManagerTests"] = {
     env: "browser",        // or "node"
     rootPath: "../",
     sources: [
+		'src/lib/*.js',
         'src/app.js'
     ],
     tests: [
