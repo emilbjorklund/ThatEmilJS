@@ -1,0 +1,801 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"icon",
+				"icon-b-locked-dark"
+			],
+			[
+				"organizer",
+				"organizer-reaction"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"darkT",
+				"darkTextColor"
+			],
+			[
+				"darkTex",
+				"darkTextColor"
+			],
+			[
+				"setUp",
+				"setUpEduCompare"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"darkTe",
+				"opIRNueDtajxTYIj6VLTZ6SFZcuSrrhA3kkvvVFl0gTJeANZKa709q2zgp8igO3dQhJaOKBK1SnqmlA95CzHt8BBYjhadRHUXe8"
+			],
+			[
+				"edu-search",
+				"edu-search-tags"
+			],
+			[
+				"che",
+				"checkedItems"
+			],
+			[
+				"setUpMap",
+				"setUpMapLinks"
+			],
+			[
+				"tabPan",
+				"tabsPanelClass"
+			],
+			[
+				"tabPanel",
+				"tabsPanelSelector"
+			],
+			[
+				"tabsPan",
+				"tabsPanelSelectedClass"
+			],
+			[
+				"tabs",
+				"tabsSelectedClass"
+			],
+			[
+				"regi",
+				"regionIndex"
+			],
+			[
+				"edu-ser",
+				"edu-search-facet"
+			],
+			[
+				"base",
+				"baseLineHeight"
+			],
+			[
+				"baseFon",
+				"baseFontSize"
+			],
+			[
+				"muted",
+				"mutedTextColor"
+			],
+			[
+				"else",
+				"else	Twig : Else"
+			],
+			[
+				"if",
+				"if	Twig : If"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"h-",
+				"h-byline"
+			],
+			[
+				"list",
+				"list:s	list-style-type:square"
+			],
+			[
+				"primary",
+				"primary-nav__more-item-inner"
+			],
+			[
+				"primary-nav__",
+				"primary-nav__more-item-inner"
+			],
+			[
+				"data-i",
+				"data-itemweight"
+			],
+			[
+				"testbed-",
+				"testbed-fluid"
+			],
+			[
+				"sub",
+				"subNav"
+			],
+			[
+				"subNa",
+				"subNavHiddenClass"
+			],
+			[
+				"prio",
+				"prioritizedList"
+			],
+			[
+				"more",
+				"moreItemHiddenClass"
+			],
+			[
+				"pro",
+				"priorityQueue"
+			],
+			[
+				"low",
+				"lowPriorityStack"
+			],
+			[
+				"hi",
+				"highPriorityStack"
+			],
+			[
+				"moreItem",
+				"moreItemWidth"
+			],
+			[
+				"moreI",
+				"moreItemHiddenClass"
+			],
+			[
+				"subNav",
+				"subNavItemClass"
+			],
+			[
+				"men",
+				"menu__item__current"
+			],
+			[
+				"sec",
+				"secondary-nav"
+			],
+			[
+				"grid-table-fol",
+				"grid-table-foldout__header"
+			],
+			[
+				"fw",
+				"fw	font-weight"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"travel__dist",
+				"travel__dist-extra-fields"
+			],
+			[
+				"hori",
+				"horiz-expander-icon"
+			],
+			[
+				"horiz",
+				"horiz-collapser-icon"
+			],
+			[
+				"distr",
+				"distribute-whole"
+			],
+			[
+				"distribute",
+				"distribute-costs-type"
+			],
+			[
+				"dist",
+				"distribute-costs"
+			],
+			[
+				"travel__le",
+				"travel__leg-1"
+			],
+			[
+				"add-s",
+				"add-stop-close"
+			],
+			[
+				"add",
+				"travel__add-stop"
+			],
+			[
+				"range",
+				"range-picker__next-month"
+			],
+			[
+				"ra",
+				"range-picker__prev-month"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"twi	",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"syntax j",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"zen co",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"zen",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"synt tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"syntax tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"Cal",
+				"Calculate"
+			],
+			[
+				"calc",
+				"Calculate"
+			],
+			[
+				"cal",
+				"Calculate"
+			],
+			[
+				"calcu",
+				"Calculate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"Tidy",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pcka",
+				"Package Control: Enable Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"installe",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_articles.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/filmer.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/page-map.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/kalender.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/kalenderhandelse.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/nyhet.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/vanliga-fragor.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/page-navigation.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/bilder.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/verksamhetsomraden/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/javascripts/src/MYHApp.js",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_forms.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_buttons.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_content.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-vill-starta-utbildning/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-bedriver-utbildning/bedriver-yrkeshogskoleutbildning.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-bedriver-utbildning/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-vill-starta-utbildning/starta-yrkeshogskoleutbildning.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_sub-nav.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/statistik-publikationer/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/pressmeddelande.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/pressmeddelanden.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/verksamhetsomraden/tack.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/sok.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_newsroom.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_search.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/nyhetsrum/nyheter.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_calendar.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-bedriver-utbildning.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/htaccess.txt",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/rss.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_page.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/master.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/prenumerera-via-email.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_press-contacts.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/red-carpet.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/header-forms.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/verksamhetsomraden/anmal-brister.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_typography.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/head.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_accordion.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-vill-starta-utbildning.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/for-dig-som-vill-starta-utbildning/for-dig-som-vill-starta-utbildning.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_icons.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/verksamhetsomraden/omrade.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_mixins.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_search.css",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/sub-nav.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_area-box.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/social-links.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/pagination.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/link-menu-module.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_area-box.css",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/layouts/base.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_variables.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_red-carpet.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/menu-list.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_menu-modules.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/carousel.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_carousel.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/ticker.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_base.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/print.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/_print.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/print.css",
+		"/Users/emilbjorklund/Development/projects/myh.se/assets/stylesheets/components/_ticker.scss",
+		"/Users/emilbjorklund/Development/projects/myh.se/index.php",
+		"/Users/emilbjorklund/Development/projects/myh.se/fabfile.py",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/webbkarta.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/footer.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/includes/tool-nav.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/lagar-regler-tillsyn/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/om-oss/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/kontakt/index.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/.htaccess",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/yrkeshogskoleutbildning.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/structure/pages/sitemap.html",
+		"/Users/emilbjorklund/Development/projects/myh.se/.htaccess.txt",
+		"/Users/emilbjorklund/Desktop/style.css",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/rss.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_page.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-compare-modal.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/6-for-arbetsgivare/sokresultat.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-search-when.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-search-what.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-search-where.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-search-more.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_edusearch.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_forms.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_icons.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/javascripts/src/YHApp.js",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/components/sub-nav.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/aktuellt/index.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/footer.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/sub-nav.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/components/edu-compare.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_search.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/3-om-yrkeshogskolan/filmer.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_content.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/social-links.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/aktuellt/nyhet.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/sok/[sok]-index.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/2-utbildningar/[utbsok]-sok.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/pagination.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/2-utbildningar/omrade/utbildning.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/2-utbildningar/omrade/index.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_buttons.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-compare-menu.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/master.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_articles.css",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_news.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/tool-nav.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/link-menu-module.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/includes/edu-list.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/README.md",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_typography.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/3-om-yrkeshogskolan/[omyrkes]-index.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_edulist.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/aktuellt/filmer.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_calendar.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_educompare.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/webbkarta.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/structure/pages/2-utbildningar/2-[utb]-index.html",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/_variables.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_area-links.scss",
+		"/Users/emilbjorklund/Development/projects/yh.se/assets/stylesheets/components/_pagination.scss"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>,*.scss, *.css",
+			"<open folders>,-*.scss, -*.css, -*.sublime-workspace",
+			"<open folders>,-*.css, -*.sublime-workspace",
+			"<open folders>,-*.css, -*.sublime-workspace, -*.js",
+			"<open folders>,-*.css, -*.sublime-workspace, -jquery.*",
+			"<open folders>,-*.css, -*.sublime-workspace",
+			"<open folders>,-*.css",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"#",
+			"c-flow",
+			"/aktuellt",
+			"nyhet\"",
+			"nyhet",
+			"/aktuellt",
+			"<div class=\"c-flow\">\n									<p class=\"article-date p-muted\">23 mars 2012</p>\n									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n									tempor incididunt ut labore&hellip;</p>\n									\n   								\n								</div>",
+			"<ul class=\"attachments li-unstyled\">\n   									<li><i class=\"icon-b-file-pdf-dark\"></i><a href=\"#\">Ladda ner hela rapporten</a></li>\n   									<li><i class=\"icon-b-file-xls-dark\"></i><a href=\"#\">Bilaga 1</a></li>\n   									<li><i class=\"icon-b-file-doc-dark\"></i><a href=\"#\">Bilaga 2</a></li>\n   								</ul>",
+			"c-flow",
+			"<p class=\"p-muted article-date\">Utgiven: 2011-07-23</p>",
+			"standfirst",
+			"div",
+			"meta",
+			"<p class=\"article-date p-muted\">Utgiven: 23 mars 2012</p>",
+			"<p class=\"article-date p-muted\">23 mars 2012</p>\n   									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n   									tempor incididunt ut labore&hellip;</p>",
+			"rapport_(3|4).png",
+			"rapport_3.png",
+			"/nyhetsrum/nyhet",
+			"interpreter",
+			"compl",
+			"yh",
+			"seqf",
+			"yh",
+			"faq-1",
+			"faq-answer",
+			"faq-answer-1",
+			"faq-",
+			"aktuellt",
+			"edu",
+			"required",
+			"/utbildningar/omrade/utbildning",
+			"subheadline",
+			"aktuellt",
+			"standfirst",
+			"h2",
+			"caret",
+			"info",
+			"{\n",
+			"edu-criticism",
+			"4",
+			"edu-number",
+			"number",
+			"startdate",
+			"locality",
+			"edu-name",
+			"name",
+			"</span>",
+			"organizer",
+			"phone-no",
+			"country",
+			"locality",
+			"street-address",
+			"last-name",
+			"2",
+			"3",
+			".label",
+			"label",
+			"console.log",
+			"utbildningar/lorem",
+			"&Ouml;",
+			"rel=\"prev\"",
+			"&",
+			"?",
+			"iframe",
+			"menu-current",
+			"news-flow",
+			"news-item",
+			"news",
+			"news-flow",
+			"footer",
+			"related",
+			"url(images/",
+			"$baseFontSize",
+			"px",
+			"13px",
+			"p-para",
+			"p class=\"p-para",
+			" class=\"p-para\"",
+			"p class=\"p-para\"",
+			"p-para",
+			"accesskey=\"1\"",
+			"data-no-js",
+			"data-",
+			"data-js",
+			"data-no-js",
+			"data-nojs",
+			"tabindex=\"0\"",
+			"href=\"#\"",
+			"console",
+			"position",
+			"icon-gl-circle-arrow-right",
+			"icon-gl-chevron-down",
+			"icon-gl-chevron-up",
+			"icon-gl-calendar",
+			"icon-gl-arrow-down",
+			"icon-gl-arrow-up",
+			"icon-gl-arrow-right",
+			"icon-gl-arrow-left",
+			"info-gl-arrow-left",
+			"icon-gl-question-sign",
+			"icon-gl-ok-sign",
+			"icon-gl-remove-sign",
+			"l-field-separate",
+			" c-separate",
+			"c-separate",
+			"content-snug",
+			"content-flow",
+			"content-standout",
+			".content-standout",
+			".content-",
+			"content-",
+			"c",
+			"content-",
+			"content",
+			"content-",
+			"content",
+			".content-",
+			".content-box",
+			"content-box",
+			"content-",
+			"content",
+			"content-",
+			"calendar",
+			"-webkit-appear",
+			"-webkit-appearance",
+			"*padding",
+			"*margin",
+			"*padding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<div class=\"c-flow article-text\">\n									<p class=\"article-date p-muted\">23 mars 2012</p>\n									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel recusandae hic ut porro repellendus eligendi aut incidunt debitis consequuntur sunt adipisci similique accusamus nulla at odio rerum autem architecto facere. Officia ullam consectetur provident illum magnam vel adipisci modi dicta voluptate.</p>\n								</div>",
+			"",
+			"c-flow article-text",
+			"<p class=\"article-date p-muted\">23 mars 2012</p>",
+			"",
+			"\n   									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n   									tempor incididunt ut labore&hellip;</p><p class=\"article-date p-muted\">Utgiven: 23 mars 2012</p>",
+			"rapport_$1.jpeg",
+			".c-",
+			"",
+			"//@include",
+			"$colorStop",
+			"$angle",
+			"$outerColor",
+			"$innerColor",
+			"$midColor",
+			"$endColor",
+			"$startColor",
+			"$baseFontSize",
+			"$baseLineHeight"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tra",
+				"HRPlusUx.Prototype.Mockups/www/travel-wizard.html"
+			],
+			[
+				"tabl",
+				"HRPlusUx.Prototype.Mockups/www/css/_tables.scss"
+			],
+			[
+				"tr",
+				"HRPlusUx.Prototype.Mockups/www/travel-wizard.html"
+			],
+			[
+				"buttn",
+				"HRPlusUx.Prototype.Mockups/www/buttons.html"
+			],
+			[
+				"bu",
+				"HRPlusUx.Prototype.Mockups/www/buttons.html"
+			],
+			[
+				"_do",
+				"HRPlusUx.Prototype.Mockups/www/css/_document.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true
+}
